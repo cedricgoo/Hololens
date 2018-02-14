@@ -46,6 +46,7 @@ Transform:
   - {fileID: 481804}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &481804
 Transform:
   m_ObjectHideFlags: 1
@@ -58,6 +59,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 438522}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &2379288
 MeshRenderer:
   m_ObjectHideFlags: 1
@@ -67,16 +69,19 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
   m_Materials:
   - {fileID: 2100000, guid: 990e6fc677ceff6468f0b5370d75e116, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
-  m_UseLightProbes: 0
-  m_ReflectionProbeUsage: 0
   m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
@@ -101,7 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HologramCollection: {fileID: 0}
-  MoveCollectionOnDismiss: 1
+  MoveCollectionOnDismiss: 0
   FitboxMaterial: {fileID: 2100000, guid: a619727feff37db40a818a4ec36c8426, type: 2}
 --- !u!1001 &100100000
 Prefab:

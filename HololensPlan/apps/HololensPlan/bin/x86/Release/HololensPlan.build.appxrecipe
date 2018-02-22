@@ -466,9 +466,6 @@
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\sharedassets0.resource">
-      <PackagePath>Data\sharedassets0.resource</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
     </AppxPackagedFile>

@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8262c194-2009-4b90-b8c3-3574458df605}</ProjectGuid>
+    <ProjectGuid>{638acbc7-2c94-4e42-9861-75879ceb0038}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -376,6 +376,9 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\HitTarget.cs">
       <Link>Scripts\HitTarget.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\PlanManager.cs">
+      <Link>Scripts\PlanManager.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\SpeechManager.cs">
       <Link>Scripts\SpeechManager.cs</Link>

@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Développement\Hololens\HololensPlan\apps\HololensPlan\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>8544529D27863804410C1C2AE05A1F1C618A57049C47A011EC09673272C05C04</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>13F4AB69C8B769C0C40A84E90B265F0DE62271DCDD6CAFF9239B4F440DEF9A05</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>HololensPlan_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>HololensPlan_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>HololensPlan</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-21T15:01:02.613</Modified>
+      <Modified>2018-03-07T13:45:54.505</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\bin\x86\Release\HololensPlan.exe">
       <PackagePath>entrypoint\HololensPlan.exe</PackagePath>
-      <Modified>2018-02-21T15:00:46.415</Modified>
+      <Modified>2018-03-07T13:45:43.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cedri\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-02-21T14:45:06.048</Modified>
+      <Modified>2018-03-07T13:34:37.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -567,15 +567,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-02-21T14:44:14.750</Modified>
+      <Modified>2018-03-07T13:33:52.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-02-21T14:44:13.941</Modified>
+      <Modified>2018-03-07T13:33:51.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-02-21T14:44:12.578</Modified>
+      <Modified>2018-03-07T13:33:50.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -583,43 +583,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-02-21T14:44:14.747</Modified>
+      <Modified>2018-03-07T13:33:52.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-02-21T14:44:14.162</Modified>
+      <Modified>2018-03-07T13:33:52.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-02-21T14:44:14.250</Modified>
+      <Modified>2018-03-07T13:33:52.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-02-21T14:44:14.414</Modified>
+      <Modified>2018-03-07T13:33:52.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-02-21T14:44:12.575</Modified>
+      <Modified>2018-03-07T13:33:50.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-02-21T14:44:14.247</Modified>
+      <Modified>2018-03-07T13:33:52.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-02-21T14:44:14.411</Modified>
+      <Modified>2018-03-07T13:33:52.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-02-21T14:45:05.995</Modified>
+      <Modified>2018-03-07T13:34:37.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-02-21T14:45:05.997</Modified>
+      <Modified>2018-03-07T13:34:37.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
-      <Modified>2018-02-21T14:44:14.256</Modified>
+      <Modified>2018-03-07T13:33:52.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
@@ -644,227 +644,227 @@
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-21T15:00:47.180</Modified>
+      <Modified>2018-03-07T13:35:24.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.271</Modified>
+      <Modified>2018-03-07T13:45:52.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.293</Modified>
+      <Modified>2018-03-07T13:45:52.399</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.313</Modified>
+      <Modified>2018-03-07T13:45:52.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.364</Modified>
+      <Modified>2018-03-07T13:45:52.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.378</Modified>
+      <Modified>2018-03-07T13:45:52.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.392</Modified>
+      <Modified>2018-03-07T13:45:52.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.408</Modified>
+      <Modified>2018-03-07T13:45:52.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.429</Modified>
+      <Modified>2018-03-07T13:45:52.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.455</Modified>
+      <Modified>2018-03-07T13:45:52.572</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.486</Modified>
+      <Modified>2018-03-07T13:45:52.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.507</Modified>
+      <Modified>2018-03-07T13:45:52.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.540</Modified>
+      <Modified>2018-03-07T13:45:52.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.561</Modified>
+      <Modified>2018-03-07T13:45:52.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.574</Modified>
+      <Modified>2018-03-07T13:45:52.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.590</Modified>
+      <Modified>2018-03-07T13:45:52.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.605</Modified>
+      <Modified>2018-03-07T13:45:52.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.620</Modified>
+      <Modified>2018-03-07T13:45:52.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.638</Modified>
+      <Modified>2018-03-07T13:45:52.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.656</Modified>
+      <Modified>2018-03-07T13:45:52.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.671</Modified>
+      <Modified>2018-03-07T13:45:52.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.694</Modified>
+      <Modified>2018-03-07T13:45:52.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.713</Modified>
+      <Modified>2018-03-07T13:45:52.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.005</Modified>
+      <Modified>2018-03-07T13:45:53.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.022</Modified>
+      <Modified>2018-03-07T13:45:53.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.048</Modified>
+      <Modified>2018-03-07T13:45:53.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-02-21T14:44:32.564</Modified>
+      <Modified>2018-03-07T13:34:08.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.070</Modified>
+      <Modified>2018-03-07T13:45:53.187</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.083</Modified>
+      <Modified>2018-03-07T13:45:53.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.106</Modified>
+      <Modified>2018-03-07T13:45:53.222</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.121</Modified>
+      <Modified>2018-03-07T13:45:53.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.142</Modified>
+      <Modified>2018-03-07T13:45:53.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.267</Modified>
+      <Modified>2018-03-07T13:45:53.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.287</Modified>
+      <Modified>2018-03-07T13:45:53.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.307</Modified>
+      <Modified>2018-03-07T13:45:53.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.322</Modified>
+      <Modified>2018-03-07T13:45:53.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.355</Modified>
+      <Modified>2018-03-07T13:45:53.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.374</Modified>
+      <Modified>2018-03-07T13:45:53.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.388</Modified>
+      <Modified>2018-03-07T13:45:53.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.411</Modified>
+      <Modified>2018-03-07T13:45:53.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.443</Modified>
+      <Modified>2018-03-07T13:45:53.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.458</Modified>
+      <Modified>2018-03-07T13:45:53.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.473</Modified>
+      <Modified>2018-03-07T13:45:53.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.487</Modified>
+      <Modified>2018-03-07T13:45:53.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.503</Modified>
+      <Modified>2018-03-07T13:45:53.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.536</Modified>
+      <Modified>2018-03-07T13:45:53.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.583</Modified>
+      <Modified>2018-03-07T13:45:53.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.636</Modified>
+      <Modified>2018-03-07T13:45:53.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.723</Modified>
+      <Modified>2018-03-07T13:45:53.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.740</Modified>
+      <Modified>2018-03-07T13:45:53.886</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.767</Modified>
+      <Modified>2018-03-07T13:45:53.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.838</Modified>
+      <Modified>2018-03-07T13:45:53.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.864</Modified>
+      <Modified>2018-03-07T13:45:54.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-02-21T15:00:57.944</Modified>
+      <Modified>2018-03-07T13:45:54.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-02-21T15:00:56.247</Modified>
+      <Modified>2018-03-07T13:45:52.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\HololensPlan\apps\HololensPlan\bin\x86\Release\Core\HololensPlan.exe">
       <PackagePath>HololensPlan.exe</PackagePath>
-      <Modified>2018-02-21T15:01:02.609</Modified>
+      <Modified>2018-03-07T13:45:54.501</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

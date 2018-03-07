@@ -5,6 +5,22 @@ using UnityEngine.UI;
 
 public class PlanManager : MonoBehaviour {
 
+    public GameObject plan;
+
+    // Use this for initialization
+    
+    // Called by GazeGestureManager when the user performs a Select gesture
+    void OnSelect()
+    {
+        plan.SetActive(true);
+    }
+    
+}
+
+//version plan 2D
+/*public class PlanManager : MonoBehaviour
+{
+
     public GameObject plane;
 
     Texture2D myTexture;
@@ -41,11 +57,11 @@ public class PlanManager : MonoBehaviour {
 
         //Scale 
         Debug.Log(Mathf.Abs(OtherObjectA.localPosition.y));
-        plane.transform.localScale = new Vector3((Mathf.Abs(OtherObjectA.localPosition.x - OtherObjectB.localPosition.x)) /10, transform.localScale.y, (Mathf.Abs(OtherObjectA.localPosition.y - OtherObjectC.localPosition.y)) / 10);
+        plane.transform.localScale = new Vector3((Mathf.Abs(OtherObjectA.localPosition.x - OtherObjectB.localPosition.x)) / 10, transform.localScale.y, (Mathf.Abs(OtherObjectA.localPosition.y - OtherObjectC.localPosition.y)) / 10);
         //plane.transform.localScale = new Vector3((Mathf.Abs(OtherObjectA.localPosition.x) + Mathf.Abs(OtherObjectB.localPosition.x)) / 10, transform.localScale.y, (Mathf.Abs(OtherObjectA.localPosition.y) + Mathf.Abs(OtherObjectC.localPosition.y)) / 10);
 
         //rotation
-        plane.transform.rotation = Quaternion.Euler(OtherObjectA.eulerAngles.x -90, OtherObjectA.eulerAngles.y, OtherObjectA.eulerAngles.z );
+        plane.transform.rotation = Quaternion.Euler(OtherObjectA.eulerAngles.x - 90, OtherObjectA.eulerAngles.y, OtherObjectA.eulerAngles.z);
         plane.SetActive(true);
 
     }
@@ -53,8 +69,8 @@ public class PlanManager : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-       if (scalingOngoing) PositionPlane();
-       if(Input.GetKeyDown("g")) LoadPlan();
+        if (scalingOngoing) PositionPlane();
+        if (Input.GetKeyDown("g")) LoadPlan();
         if (Input.GetKeyDown("h")) PositionPlane();
     }
-}
+}*/

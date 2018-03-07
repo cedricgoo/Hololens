@@ -9,7 +9,7 @@ HololensPlan.sln: modified
 HololensPlan.sln.metaproj: 83D61F2643D336A7FA59E868FD37B2D8
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HololensPlan\App.cs: 8090B31177893FBFD07656D679C50CA7
-HololensPlan\HololensPlan.csproj: 8FCD7750D1992C9CF57F558BA90E4F7B
+HololensPlan\HololensPlan.csproj: modified
 HololensPlan\HololensPlan.csproj.user: modified
 HololensPlan\Package.appxmanifest: F40D0FCC0373B0FE23C20E3B91DC8CEC
 HololensPlan\project.json: 1D02BC64BAC0D041019673A1C4C51737

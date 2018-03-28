@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>BE2018Plan</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Développement\Hololens\BE2018Plan\apps\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Développement\Hololens\BE2018Plan\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

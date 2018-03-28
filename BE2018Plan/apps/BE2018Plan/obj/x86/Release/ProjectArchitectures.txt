@@ -1,0 +1,2 @@
+D:\Développement\Hololens\BE2018Plan\apps\BE2018Plan\BE2018Plan.csproj;x86
+D:\Développement\Hololens\BE2018Plan\apps\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

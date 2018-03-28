@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.XR.WSA.Input;
+using UnityEngine.XR.WSA.Persistence;
 
 public class GazeGestureManager : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class GazeGestureManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+
+        
         Instance = this;
         // Set up a GestureRecognizer to detect Select gestures.
         recognizer = new GestureRecognizer();
@@ -31,7 +34,7 @@ public class GazeGestureManager : MonoBehaviour
             if( args.tapCount ==2)
             {
                 manager.GetComponent<CanvasManager>().OnTrigger();
-                
+                   
             }
 
         };

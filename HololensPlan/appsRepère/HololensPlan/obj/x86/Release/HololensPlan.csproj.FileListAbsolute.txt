@@ -301,3 +301,5 @@ D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\obj\x86\Release
 D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\obj\x86\Release\qualifiers.txt.intermediate
 D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
 D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\obj\x86\Release\ProjectArchitectures.txt
+D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\bin\x86\Release\Newtonsoft.Json.dll
+D:\Développement\Hololens\HololensPlan\appsRepère\HololensPlan\bin\x86\Release\Newtonsoft.Json.pdb

@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 821
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -105,10 +105,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 771
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 1
-  controlID: 24
+  controlID: 131
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 771
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
-  controlID: 25
+  controlID: 132
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 94
+  controlID: 110
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,8 +203,8 @@ MonoBehaviour:
     y: 395
     width: 613
     height: 376
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 26
+  controlID: 37
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -448,7 +448,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.03749658, y: -0.004488153, z: 0.00016745891, w: 0.9992867}
     speed: 2
-    m_Value: {x: 0.03749658, y: -0.004488153, z: 0.00016745891, w: 0.9992867}
+    m_Value: {x: -0.037496578, y: 0.0044881525, z: -0.00016745891, w: -0.99928665}
   m_Size:
     m_Target: 0.92174834
     speed: 2
@@ -563,9 +563,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: ba3d0000
     m_LastClickedID: 0
-    m_ExpandedIDs: 5a98f9ff4899f9ff829bf9ff1a9cf9fffceaf9ff5e0efaff4c0ffaff8611faff1e12faff0438faffee38faff283bfaffc03bfaffb648faffa049faffde4bfaff7a4cfaff5afffaff7af1fbff5ef2fbff98f4fbff30f5fbff324ffcff1650fcff5052fcffe852fcff74cffcff8ccffcff24dafcff12dbfcffe0ddfcffeaddfcff6a13fdff5614fdff2417fdff2e17fdffde5efdffc25ffdff9462fdffa262fdfffa78fdff38a8fdffaea8fdff0e64fefff472feff98e6ffffb0e6ffff38e8ffff0ef6ffff98fbffff00000000d231000060330000f234000004390000903e0000383f00007c4700006e5300003c5d0000105e00005e5e0000f668000076690000ca690000186a0000a07900007e7a0000868600000c9000008c900000
+    m_ExpandedIDs: 30e6fffff8e7ffff0aeaffff28ebffffe6ecffff98fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -627,19 +627,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "D:\\D\xE9veloppement\\Hololens\\HololensPlan"
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc2b0000
-    m_LastClickedID: 11228
-    m_ExpandedIDs: 00000000fe290000902b0000f02b0000042c0000d2300000d4300000d6300000d8300000da300000dc300000de300000e0300000e2300000e4300000e6300000e8300000ea300000ec30000000ca9a3bffffff7f
+    m_SelectedIDs: d22d0000
+    m_LastClickedID: 11730
+    m_ExpandedIDs: 00000000062a00009a2b0000fa2b00000e2c00001433000016330000183300001a3300001c3300001e33000020330000223300002433000026330000283300002a3300002c3300002e33000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -667,7 +667,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fe290000902b0000f02b0000042c0000d2300000d4300000d6300000d8300000da300000dc300000de300000e0300000e2300000e4300000e6300000e8300000ea300000ec300000
+    m_ExpandedIDs: 00000000062a00009a2b0000fa2b00000e2c00001433000016330000183300001a3300001c3300001e33000020330000223300002433000026330000283300002a3300002c3300002e330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -719,7 +719,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 59.5}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 268
 --- !u!114 &20

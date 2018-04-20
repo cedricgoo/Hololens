@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HololensPlan", "HololensPlan.csproj", "{19CBD47E-3BCC-15B7-7B59-3DF71F0C3822}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HololensPlan.Editor", "HololensPlan.Editor.csproj", "{30E19896-E878-32B4-E749-0F27F2451AF4}"

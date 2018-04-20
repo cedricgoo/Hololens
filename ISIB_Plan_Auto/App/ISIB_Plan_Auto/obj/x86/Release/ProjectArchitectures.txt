@@ -1,0 +1,2 @@
+D:\Développement\Hololens\ISIB_Plan_Auto\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Développement\Hololens\ISIB_Plan_Auto\App\ISIB_Plan_Auto\ISIB_Plan_Auto.csproj;x86

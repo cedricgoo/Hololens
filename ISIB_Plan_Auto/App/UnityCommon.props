@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>ISIB_Plan_Auto</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Développement\Hololens\ISIB_Plan_Auto\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Développement\Hololens\ISIB_Plan_Auto\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,2 @@
+D:\Développement\Hololens\HololensPlan\Proto\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Développement\Hololens\HololensPlan\Proto\ProtoPlan\ProtoPlan.csproj;x86

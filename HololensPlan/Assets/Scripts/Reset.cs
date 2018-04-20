@@ -12,6 +12,6 @@ public class Reset : MonoBehaviour {
 
     void OnSelect()
     {
-        SceneManager.LoadScene("plan3D");
+        SceneManager.LoadScene("plan2D");
     }
 }

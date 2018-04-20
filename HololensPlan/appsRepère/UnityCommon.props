@@ -1,6 +1,6 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <UnityWSASolutionName>HololensPlan</UnityWSASolutionName>
+        <UnityWSASolutionName>ProtoPlan</UnityWSASolutionName>
         <UnityWSASolutionDir>D:\Développement\Hololens\HololensPlan\appsRepère\</UnityWSASolutionDir>
         <UnityProjectDir>D:\Développement\Hololens\HololensPlan\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>

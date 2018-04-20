@@ -1,5 +1,6 @@
 Metro
 SceneListBegin?
+Assets/Scenes/plan2D.unity
 Assets/Scenes/plan3D.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -229,6 +230,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 1802df0c587099fd3895470c625ed810 Assembly-CSharp.dll:.SpatialMapping
 d4eda7979d74a959b9d660a6efbb35de Assembly-CSharp.dll:.HitTarget
+ec370766afc16bd792a3d28a0b970ce4 Assembly-CSharp.dll:.TapToPlace
 26215f135eeb48d8fa1189498c107f6c Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 0561521e336e270e6e5a9c61387cb838 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 2e0fd93f459db951da0e2e94e2e33fb7 Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
@@ -301,4 +303,7 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-ec370766afc16bd792a3d28a0b970ce4 Assembly-CSharp.dll:.TapToPlace
+d6d24f136b6e83603d351f52cfaa6104 Assembly-CSharp.dll:.PlanManager2D
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SceneLoader
+b00d2b3081303408793637d91edaf228 Assembly-CSharp.dll:.LayerManager
+fae0736a02865ba74d2a8182bcbad4a4 Assembly-CSharp.dll:.LayerConduite

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/plan3D.unity
+    path: Assets/Scenes/plan2D.unity
     guid: 0e58631eff94a3446aaaebbf91b90456
-  - enabled: 0
-    path: Assets/Scenes/Origami.unity
-    guid: 52b9d761ece58fe498430a20d6271177
+  - enabled: 1
+    path: Assets/Scenes/plan3D.unity
+    guid: 71de609de67f5ef42a961cca2e999403

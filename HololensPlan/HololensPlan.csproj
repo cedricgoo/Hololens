@@ -299,16 +299,20 @@
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\HitTarget.cs" />
     <Compile Include="Assets\Scripts\InteractibleAction.cs" />
+    <Compile Include="Assets\Scripts\LayerConduite.cs" />
+    <Compile Include="Assets\Scripts\LayerManager.cs" />
     <Compile Include="Assets\Scripts\PlanManager.cs" />
+    <Compile Include="Assets\Scripts\PlanManager2D.cs" />
     <Compile Include="Assets\Scripts\Reset.cs" />
+    <Compile Include="Assets\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Scripts\SimpleTagalong.cs" />
     <Compile Include="Assets\Scripts\SpeechManager.cs" />
     <Compile Include="Assets\Scripts\SphereCommands.cs" />
     <Compile Include="Assets\Scripts\SphereSounds.cs" />
     <Compile Include="Assets\Scripts\TapToPlace.cs" />
     <Compile Include="Assets\Scripts\TapToPlaceParent.cs" />
+    <Compile Include="Assets\Scripts\TransformButton.cs" />
     <Compile Include="Assets\Scripts\WorldCursor.cs" />
-    <Compile Include="Assets\TransformButton.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
   </ItemGroup>

@@ -439,6 +439,9 @@
     <AppxPackagedFile Include="D:\Développement\Hololens\ISIB_Plan_Auto\App\ISIB_Plan_Auto\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Développement\Hololens\ISIB_Plan_Auto\App\ISIB_Plan_Auto\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Développement\Hololens\ISIB_Plan_Auto\App\ISIB_Plan_Auto\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>

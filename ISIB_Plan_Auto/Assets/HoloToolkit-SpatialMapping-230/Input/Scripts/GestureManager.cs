@@ -39,20 +39,25 @@ namespace Academy.HoloToolkit.Unity
         {
             // Create a new GestureRecognizer. Sign up for tapped events.
             gestureRecognizer = new GestureRecognizer();
-            gestureRecognizer.SetRecognizableGestures(GestureSettings.Tap);
+            gestureRecognizer.SetRecognizableGestures(GestureSettings.Tap | GestureSettings.DoubleTap);
 
             gestureRecognizer.Tapped += GestureRecognizer_Tapped;
-
+            
             // Start looking for gestures.
             gestureRecognizer.StartCapturingGestures();
         }
 
         private void GestureRecognizer_Tapped(TappedEventArgs args)
         {
-            if (focusedObject != null)
+            if (focusedObject != null && focusedObject.gameObject.tag == "plane" && args.tapCount == 2)
+            {
+                focusedObject.SendMessage("OnSelectDouble");
+            }
+            else if (focusedObject != null && args.tapCount == 1)
             {
                 focusedObject.SendMessage("OnSelect");
             }
+
         }
 
         void LateUpdate()

@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15dfb863-eddd-4d5f-8583-7d535f644f29}</ProjectGuid>
+    <ProjectGuid>{2c7ecf19-8203-4945-9d75-e2b0b7b9ad4a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -395,6 +395,12 @@
     <Compile Include="$(UnityProjectDir)Assets\PlanManager.cs">
       <Link>PlanManager.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\Billboard.cs">
+      <Link>Scripts\Billboard.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\Image.cs">
+      <Link>Scripts\Image.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Interactible.cs">
       <Link>Scripts\Interactible.cs</Link>
     </Compile>
@@ -404,8 +410,14 @@
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Placeable.cs">
       <Link>Scripts\Placeable.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\Planes.cs">
+      <Link>Scripts\Planes.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\PlaySpaceManager.cs">
       <Link>Scripts\PlaySpaceManager.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\Reset.cs">
+      <Link>Scripts\Reset.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\SolarSystem\PlanetOcclusion.cs">
       <Link>Scripts\SolarSystem\PlanetOcclusion.cs</Link>

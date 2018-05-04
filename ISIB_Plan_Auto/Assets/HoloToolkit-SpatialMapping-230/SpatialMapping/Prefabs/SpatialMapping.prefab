@@ -53,7 +53,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7aff72e2b81a1a4183d67105c7e844f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  roomModel: {fileID: 0}
+  roomModel: {fileID: 100002, guid: a805697e3fdfb884cbf55b06af88bf5a, type: 3}
 --- !u!114 &114000011154029958
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -66,7 +66,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PhysicsLayer: 31
-  surfaceMaterial: {fileID: 2100000, guid: d698790d3facd3d4289a13fa1243030a, type: 2}
+  surfaceMaterial: {fileID: 2100000, guid: f24c1d220d58d574fb2b98f0d2cab5bd, type: 2}
   drawVisualMeshes: 1
   castShadows: 0
   autoStartObserver: 1
@@ -81,7 +81,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2a98b181acba5549af3d852c7664623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TrianglesPerCubicMeter: 500
+  TrianglesPerCubicMeter: 800
   Extents: {x: 10, y: 10, z: 10}
-  TimeBetweenUpdates: 3.5
+  TimeBetweenUpdates: 2
   RecalculateNormals: 1

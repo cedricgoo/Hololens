@@ -44,6 +44,7 @@ namespace Academy.HoloToolkit.Unity
         /// </summary>
         [HideInInspector]
         public PlaneTypes destroyPlanesMask = PlaneTypes.Unknown;
+        
 
         /// <summary>
         /// Floor y value, which corresponds to the maximum horizontal area found below the user's head position.
@@ -84,7 +85,7 @@ namespace Academy.HoloToolkit.Unity
         /// </summary>
         private bool makingPlanes = false;
 
-        Texture secondText;
+        //Texture secondText;
 
 
 #if UNITY_EDITOR || UNITY_STANDALONE
@@ -107,7 +108,6 @@ namespace Academy.HoloToolkit.Unity
             planesParent = new GameObject("SurfacePlanes");
             planesParent.transform.position = Vector3.zero;
             planesParent.transform.rotation = Quaternion.identity;
-            secondText = Resources.Load("Lion") as Texture2D;
 
         }
 
@@ -294,13 +294,6 @@ namespace Academy.HoloToolkit.Unity
             }
 
             Debug.Log("Finished making planes.");
-
-            //###ADDED
-
-            GameObject.Find("SpatialMapping").SetActive(false);
-            GameObject.Find("SpatialProcessing").SetActive(false);
-
-            //###
 
             // We are done creating planes, trigger an event.
             EventHandler handler = MakePlanesComplete;

@@ -351,7 +351,7 @@
 
   <ItemGroup>
     <ProjectReference Include="D:\Développement\Hololens\ISIB_Plan_Auto\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{15dfb863-eddd-4d5f-8583-7d535f644f29}</Project>
+      <Project>{2c7ecf19-8203-4945-9d75-e2b0b7b9ad4a}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

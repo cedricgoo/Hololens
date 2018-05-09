@@ -40,12 +40,19 @@
 			fixed4 _Color2;
 			fixed4 _Color3;
 
+			void vert(inout appdata_full v)
+			{
+				v.vertex.xyz -= v.normal.xyz - 3.0f;
+			}
+
 			void surf(Input IN, inout SurfaceOutputStandard o) {
 				// Albedo comes from a texture tinted by color
 				fixed4 c1 = tex2D(_MainTex, IN.uv_MainTex);
 				fixed4 c2 = tex2D(_BisTex, IN.uv_BisTex);
 				fixed4 c3 = tex2D(_TrisTex, IN.uv_TrisTex);
-				o.Albedo = _Background-((fixed3(1, 1, 1) - c1.rgb) * c1.a * _Percentage1 * _Color1 + (fixed3(1, 1, 1) - c2.rgb)* c2.a *_Percentage2 * _Color2 + (fixed3(1, 1, 1) - c3.rgb) * c3.a * _Percentage3 * _Color3);
+				//o.Albedo = _Background-((fixed3(1, 1, 1) - c1.rgb) * c1.a * _Percentage1 * _Color1 + (fixed3(1, 1, 1) - c2.rgb)* c2.a *_Percentage2 * _Color2 + (fixed3(1, 1, 1) - c3.rgb) * c3.a * _Percentage3 * _Color3);
+
+				o.Albedo = ((fixed3(1, 1, 1) - c1.rgb) * c1.a * _Percentage1 * _Color1 + (fixed3(1, 1, 1) - c2.rgb)* c2.a *_Percentage2 * _Color2 + (fixed3(1, 1, 1) - c3.rgb) * c3.a * _Percentage3 * _Color3);
 				// Metallic and smoothness come from slider variables
 				o.Metallic = _Metallic;
 				o.Smoothness = _Glossiness;

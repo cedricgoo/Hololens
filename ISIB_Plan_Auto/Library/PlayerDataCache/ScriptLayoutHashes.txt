@@ -192,6 +192,7 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Academy.HoloToolkit.Unity.HandsManager
 c2706c3a189db8ed05d27e1ad76591fb Assembly-CSharp.dll:.PlaySpaceManager
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Academy.HoloToolkit.Unity.SpatialMappingSource
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Reset
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 e2b6780ca937bf24a11caec6e4e5427b Assembly-CSharp.dll:Academy.HoloToolkit.Unity.SpatialMappingObserver
@@ -210,9 +211,11 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 038aa5176b6d9af5cd05b5a095c8df4c Assembly-CSharp.dll:.RotateAsteroids
+341dcfb27fc72cd0517f763eb59b9443 Assembly-CSharp.dll:.Image
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
+b05939a65a0bf462912259c54bba7241 Assembly-CSharp.dll:Academy.HoloToolkit.Unity.Billboard
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InteractibleManager
 8364487869daec85887c87dd72f9aee7 Assembly-CSharp.dll:Academy.HoloToolkit.Unity.SpatialMappingManager
@@ -225,6 +228,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 39ab3a2d32c5900139acd177044a152c Assembly-CSharp.dll:.Interactible
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Academy.HoloToolkit.Unity.GestureManager
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+7bd8768b90b905d5b5541fe42addb342 Assembly-CSharp.dll:.CloseMenu
 97803cea4c5b08f7829e2a00a8882bf8 Assembly-CSharp.dll:.PlanetOcclusion
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PlanetOrbit
 cb31dbd9f9dc7182e2f66e6278436ccd Assembly-CSharp.dll:Academy.HoloToolkit.Unity.ObjectSurfaceObserver
@@ -301,6 +305,3 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-b05939a65a0bf462912259c54bba7241 Assembly-CSharp.dll:Academy.HoloToolkit.Unity.Billboard
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Reset
-341dcfb27fc72cd0517f763eb59b9443 Assembly-CSharp.dll:.Image

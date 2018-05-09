@@ -304,6 +304,7 @@
     <Compile Include="Assets\HoloToolkit-SpatialMapping-230\Utilities\Scripts\Singleton.cs" />
     <Compile Include="Assets\PlanManager.cs" />
     <Compile Include="Assets\Scripts\Billboard.cs" />
+    <Compile Include="Assets\Scripts\CloseMenu.cs" />
     <Compile Include="Assets\Scripts\Image.cs" />
     <Compile Include="Assets\Scripts\Interactible.cs" />
     <Compile Include="Assets\Scripts\InteractibleManager.cs" />

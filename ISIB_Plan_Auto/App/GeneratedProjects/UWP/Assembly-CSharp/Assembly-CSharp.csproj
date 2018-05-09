@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2c7ecf19-8203-4945-9d75-e2b0b7b9ad4a}</ProjectGuid>
+    <ProjectGuid>{ac9ded73-877e-49a9-8edb-964030242f2a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -397,6 +397,9 @@
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Billboard.cs">
       <Link>Scripts\Billboard.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\CloseMenu.cs">
+      <Link>Scripts\CloseMenu.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\Image.cs">
       <Link>Scripts\Image.cs</Link>
